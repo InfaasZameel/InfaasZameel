@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/InfaasZameel](https://github.com/InfaasZameel)
 
-- 💬 Ask me about **python,R**
+- 💬 Ask me about **python,R,Figma**
 
 - 📫 Reach me via **infaaszameel07@gmail.com**
 
