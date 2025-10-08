@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/InfaasZameel](https://github.com/InfaasZameel)
 
-- 💬 Ask me about **python,R,Figma**
+- 💬 Ask me about **Python,R,Figma**
 
 - 📫 Reach me via **infaaszameel07@gmail.com**
 
@@ -23,5 +23,10 @@
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
 </p>
+
+
 
